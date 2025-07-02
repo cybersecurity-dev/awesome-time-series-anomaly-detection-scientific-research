@@ -27,7 +27,7 @@
 
 ### 2021
 -
--
+- [On the Usage of Generative Models for Network Anomaly Detection in Multivariate Time-Series](https://dl.acm.org/doi/abs/10.1145/3466826.3466843) - Published: 19 May 2021
 -
 
 ### 2020
