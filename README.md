@@ -23,7 +23,8 @@
 ### 2022
 -
 - [A systematic literature review of IoT time series anomaly detection solutions](https://www.sciencedirect.com/science/article/pii/S0167739X22001285) - Available online 16 April 2022
--
+- [Real-Time Deep Anomaly Detection Framework for Multivariate Time-Series Data in Industrial IoT](https://ieeexplore.ieee.org/abstract/document/9915308) - Date of Publication: 10 October 2022
+- 
 
 ### 2021
 -
