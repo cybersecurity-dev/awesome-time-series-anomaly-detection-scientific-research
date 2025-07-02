@@ -1,4 +1,4 @@
-# Awesome Time Series Anomaly Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Time Series Anomaly Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXQauY75RPdqGFZfG0wRq1j&si=iP6JUOl0zw1Bzhs0)
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
