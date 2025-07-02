@@ -42,6 +42,7 @@
 
 ### Others
 -
+- [Network anomaly detection through nonlinear analysis](https://www.sciencedirect.com/science/article/pii/S0167404810000362) - Available online 31 May 2010
 - [Network Anomaly Detection Using Time Series Analysis](https://ieeexplore.ieee.org/abstract/document/1559894) - Date Added to IEEE Xplore: 19 December 2005
 -
 
