@@ -5,6 +5,41 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+### 2025
+-
+-
+-
+
+### 2024
+-
+-
+-
+
+### 2023
+-
+-
+-
+
+### 2022
+-
+- 
+-
+
+### 2021
+-
+-
+-
+
+### 2020
+-
+-
+-
+
+### Others
+-
+- [Network Anomaly Detection Using Time Series Analysis](https://ieeexplore.ieee.org/abstract/document/1559894) - Date Added to IEEE Xplore: 19 December 2005
+-
+
 ### My Other Awesome Lists
 
 * [awesome-advanced-persistent-threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
