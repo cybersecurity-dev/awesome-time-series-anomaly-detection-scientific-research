@@ -12,7 +12,7 @@
 
 ### 2024
 -
--
+- [Deep Learning for Time Series Anomaly Detection: A Survey](https://dl.acm.org/doi/full/10.1145/3691338) - Published: 07 October 2024
 -
 
 ### 2023
