@@ -32,7 +32,7 @@
 
 ### 2020
 -
--
+- [A Software Deep Packet Inspection System for Network Traffic Analysis and Anomaly Detection](https://www.mdpi.com/1424-8220/20/6/1637) - Published: 14 March 2020
 -
 
 ### Others
