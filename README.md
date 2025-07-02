@@ -1,5 +1,4 @@
-# awesome-time-series-anomaly-detection-scientific-research
-Awesome Time Series Anomaly Detection Scientific Research
+# Awesome Time Series Anomaly Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
