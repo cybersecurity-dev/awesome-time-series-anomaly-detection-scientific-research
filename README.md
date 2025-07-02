@@ -50,6 +50,9 @@
 - [Network Anomaly Detection Using Time Series Analysis](https://ieeexplore.ieee.org/abstract/document/1559894) - Date Added to IEEE Xplore: 19 December 2005
 -
 
+### Scientific Research
+You can access the Time Series based Malware Detection Scientific Research [here](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research).
+
 ### My Other Awesome Lists
 
 * [awesome-advanced-persistent-threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
