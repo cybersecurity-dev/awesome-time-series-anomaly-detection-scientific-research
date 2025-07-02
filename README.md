@@ -17,7 +17,7 @@
 
 ### 2023
 -
--
+- [Flow-based intrusion detection on software-defined networks: a multivariate time series anomaly detection approach](https://link.springer.com/article/10.1007/s00521-023-08376-5) - Published: 05 March 2023
 -
 
 ### 2022
