@@ -41,7 +41,8 @@
 - 
 
 ### Others
--
+- 
+- [A signal analysis of network traffic anomalies](https://dl.acm.org/doi/abs/10.1145/637201.637210) - Published: 06 November 2002
 - [Anomaly Characterization in Flow-Based Traffic Time Series](https://link.springer.com/chapter/10.1007/978-3-540-87357-0_2) - 2008
 - [Large-scale IP network behavior anomaly detection and identification using substructure-based approach and multivariate time series mining](https://link.springer.com/article/10.1007/s11235-010-9384-1) - Published: 04 August 2010
 - [Network anomaly detection through nonlinear analysis](https://www.sciencedirect.com/science/article/pii/S0167404810000362) - Available online 31 May 2010
