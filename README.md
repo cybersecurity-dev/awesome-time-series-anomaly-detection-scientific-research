@@ -1,6 +1,7 @@
 # Awesome Time Series Anomaly Detection Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXQauY75RPdqGFZfG0wRq1j&si=iP6JUOl0zw1Bzhs0)
 
 ## 📖 Contents
+- [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [<2020](#2020-1)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -40,7 +41,7 @@
 - [Anomaly Detection in Univariate Time-series: A Survey on the State-of-the-Art](https://arxiv.org/abs/2004.00433) - Submitted on 1 Apr 2020
 - 
 
-### Others
+### <2020
 - 
 - [A signal analysis of network traffic anomalies](https://dl.acm.org/doi/abs/10.1145/637201.637210) - Published: 06 November 2002
 - [Anomaly Characterization in Flow-Based Traffic Time Series](https://link.springer.com/chapter/10.1007/978-3-540-87357-0_2) - 2008
