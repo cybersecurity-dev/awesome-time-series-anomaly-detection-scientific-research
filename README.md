@@ -1,13 +1,14 @@
 # Awesome Time Series Anomaly Detection [Scientific](https://scholar.google.com/scholar?hl=en&as_sdt=2007&q=%22time+series%22+%22pcap%22+%22network+anomaly+detection%22&btnG=) Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=allintitle%3A+%22network+anomaly+detection%22+%22time+series%22&hl=en&as_sdt=2007&as_ylo=2020&as_yhi=) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXQauY75RPdqGFZfG0wRq1j&si=iP6JUOl0zw1Bzhs0) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/networking/)
-
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
     <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
 
 ## 📖 Contents
 - [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [<2020](#2020-1)
