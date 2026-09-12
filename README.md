@@ -1,13 +1,81 @@
+<div align="center">
+
+```mermaid
+mindmap
+  root((Time Series Anomaly Detection))
+
+    Data Collection
+      Sensors
+      Logs
+      Metrics
+      IoT Data
+
+    Preprocessing
+      Cleaning
+      Missing Values
+      Scaling
+      Smoothing
+
+    Time Series Analysis
+      Trend
+      Seasonality
+      Cyclic Patterns
+      Residuals
+
+    Feature Engineering
+      Rolling Statistics
+      Lag Features
+      Moving Average
+      Fourier Features
+
+    Detection Methods
+      Statistical
+      Machine Learning
+      Deep Learning
+      Rule Based
+
+    Statistical Methods
+      Z-Score
+      IQR
+      ARIMA
+      STL Decomposition
+
+    Machine Learning
+      Isolation Forest
+      One-Class SVM
+      K-Means
+      DBSCAN
+
+    Deep Learning
+      LSTM
+      Autoencoders
+      Transformer Models
+
+    Evaluation
+      Precision
+      Recall
+      F1 Score
+      ROC-AUC
+
+    Applications
+      Cybersecurity
+      Fraud Detection
+      Predictive Maintenance
+      Network Monitoring
+```
+
 # **`Awesome`** Time Series Anomaly Detection [Scientific](https://scholar.google.com/scholar?hl=en&as_sdt=2007&q=%22time+series%22+%22pcap%22+%22network+anomaly+detection%22&btnG=) Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+</div>
+
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=allintitle%3A+%22network+anomaly+detection%22+%22time+series%22&hl=en&as_sdt=2007&as_ylo=2020&as_yhi=)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiXQauY75RPdqGFZfG0wRq1j&si=iP6JUOl0zw1Bzhs0)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/networking/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/networking/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -58,11 +126,12 @@ You can access the Time Series based Malware Detection Scientific Research [here
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-time-series-anomaly-detection-scientific-research-)
