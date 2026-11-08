@@ -88,6 +88,9 @@ mindmap
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+> [!NOTE]
+> [BibTeX citation: Click here.](./tsad.bib)
+
 ### 2025
 - [CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting](https://www.nature.com/articles/s41597-025-04603-x) - Published: 26 February 2025
 
