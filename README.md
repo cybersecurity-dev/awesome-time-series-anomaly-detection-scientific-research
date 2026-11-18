@@ -83,13 +83,25 @@ mindmap
 
 
 ## 📖 Contents
-- [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [<2020](#2020-1)
+- [2027](#2027) | [2026](#2026) | [2025](#2025)
+- [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
+- [Others](#old)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 > [!NOTE]
 > [BibTeX citation: Click here.](./tsad.bib)
+
+### 2027
+-
+-
+-
+
+### 2026
+-
+-
+-
 
 ### 2025
 - [CESNET-TimeSeries24: Time Series Dataset for Network Traffic Anomaly Detection and Forecasting](https://www.nature.com/articles/s41597-025-04603-x) - Published: 26 February 2025
